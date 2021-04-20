@@ -27,7 +27,7 @@ export default function App(){
 
     async function checkForKey(){
         const oldKey = localStorage.getItem('auth_token');
-        // const userOld = jwt.decode(oldKey)
+        // const userOld
 
         async function testKey (){
             try{
